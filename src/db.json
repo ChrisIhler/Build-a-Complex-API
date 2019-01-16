@@ -1,0 +1,39 @@
+[{
+  "id": "af185643-f790-4e7d-98d3-e9f009287e46",
+  "name": "New Pirate 111",
+  "price": 50,
+  "description": "Plunder the seven seas as a fearsome pirate",
+  "tags": [{
+    "id": "11",
+    "name": "pirate",
+    "color": "123456"
+  }, {
+    "id": "12",
+    "name": "adventure",
+    "color": "789101"
+  }]
+}, {
+  "id": "bf185643-f790-4e7d-98d3-e9f009287e46",
+  "name": "King",
+  "price": 50,
+  "description": "Rule over the seven Kingdoms as a Noble King",
+  "tags": [{
+    "id": "11",
+    "name": "king",
+    "color": "121456"
+  }, {
+    "id": "12",
+    "name": "royalty",
+    "color": "78ee01"
+  }]
+}, {
+  "id": "6b8538e2-5128-43be-9978-c5edce8d0ec5",
+  "name": "Techno Pirate",
+  "price": 50,
+  "descriptions": "",
+  "tags": [{
+    "id": "6ac552f1-1c0a-4b48-bf40-177529efd391",
+    "name": "king",
+    "color": "AA33FF"
+  }]
+}]

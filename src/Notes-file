@@ -1,0 +1,41 @@
+1. how to I connect the path to the json file
+2. read and navigate through items in the file
+3. write and navigate through the file
+4. get Nodemon working. 
+
+[
+  {"id":1,
+    "name":"Pirate",
+    "price": 50,
+    "description": "Plunder the seven seas as a fearsome pirate",
+    "tags": [
+      {
+      "id": 11,
+      "name": "pirate",
+      "color": "#123456"
+      },
+      {
+      "id": 12,
+      "name": "adventure",
+      "color": "#789101"
+      }
+    ]
+  },
+  {"id":2,
+    "name":"King",
+    "price": 50,
+    "description": "Rule over the seven Kingdoms as a Noble King",
+    "tags": [
+      {
+      "id": 11,
+      "name": "king",
+      "color": "#121456"
+      },
+      {
+      "id": 12,
+      "name": "royalty",
+      "color": "#78ee01"
+      }
+    ]
+  }
+]
